@@ -1,12 +1,12 @@
 <template>
   <div class="dashboard-container">
-    <h2>Dashboard</h2>
+    <h2>Permission</h2>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Dashboard',
+  name: 'Permission',
   data() {
     return {
     }
